@@ -57,3 +57,13 @@
 - scanner.ex
     - ScannerEx1~5: 스캐너 기초 예제
     - ScannerWhileEx1~4: 스캐너 반복문 예제
+
+## Section 8. Array
+- **package: array**
+- Array1, Array1Ref1~4: 배열 기초, 리팩토링
+- ArrayDi0~4: 이차원 배열
+- EnhancedFor1: 향상된 for문(for~each문)
+- array.ex
+  - ArrayEx1, ArrayEx1Ref: ArrayEx1의 코드를 ArrayEx1Ref의 코드로 리팩토링
+  - ArrayEx2~8: 배열 사용 예제
+  - ProductAdminEx: 배열 사용 예제- 상품 관리 프로그램
